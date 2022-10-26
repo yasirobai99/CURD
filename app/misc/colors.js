@@ -1,6 +1,14 @@
 export default {
-  DARK: '#1e1e1e',
-  LIGHT: '#FFF',
-  PRIMARY: '#dbb2ff',
-  ERROR: '#ff0000',
+  DARK: '#0f0f0f',
+  LIGHT: '#0f0f0f',
+  PRIMARY: '#D58BDD',
+  ERROR: '#FF1E1E',
 };
+
+// export default {
+//   DARK: '#FFF',
+//   LIGHT: '#0f0f0f',
+//   PRIMARY: '#dbb2ff',
+//   ERROR: '#ff0000',
+// };
+
