@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ndp-note",
-    "slug": "ndp-note",
+    "name": "React_Native_App",
+    "slug": "React_Native_App",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
